@@ -1,3 +1,8 @@
 - help with how to deal with use of force
 - fsm using subset of features
 - how best to deal with figuring out whether citizen was injured at an incident, rather than by each officer at the incident
+- need to brain storm my audience and thus my metric
+- still having trouble with my 'business' case and who and what this helps... after working with the data, I'm thinking this is meaningless and losing confidence :/ 
+- one thing I may have overlooked is that this dataset is on response to resistance which... wouldn't you expect force if someone is trying to resist arrest?  This dataset
+isn't just someone being randomly pulled up and then hurt by police... it's in an encounter where someone has been charged and is trying to be arrested and they've resisted. 
+Of course these arrests could be unjust but I'm not sure I can determine that from this data...
