@@ -1,0 +1,3 @@
+- help with how to deal with use of force
+- fsm using subset of features
+- how best to deal with figuring out whether citizen was injured at an incident, rather than by each officer at the incident
